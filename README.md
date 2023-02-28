@@ -53,3 +53,12 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+
+`yarn add astro@latest`
+`yarn create astro`
+`npx astro add solid`
+`npx astro add tailwind`
+
+
+`yarn build` 之后生成dist文件，再执行 `yarn preview` 即可预览本地打包出来的文件。
